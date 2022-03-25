@@ -1,0 +1,11 @@
+
+U
+java:S1854D":Remove this useless assignment to local variable "author".(ä§É°øÿÿÿÿ
+V	java:S1251"<This block of commented-out lines of code should be removed.(­Ÿ¤´þÿÿÿÿ
+F
+java:S1481D"+Remove this unused "author" local variable.(ä§É°øÿÿÿÿ
+]	java:S125N"<This block of commented-out lines of code should be removed.(­Ÿ¤´þÿÿÿÿ8»×Ðòû/
+c
+java:S1128"FRemove this unused import 'com.kandemirmert.bookstore.entity.Address'.(ö™¨Ê8Ï«ƒóû/
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ð«ƒóû/
